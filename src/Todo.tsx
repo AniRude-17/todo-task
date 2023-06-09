@@ -7,7 +7,7 @@ const Todo = () => {
   const [selectedTasks, setSelectedTasks] = useState([]);
 
   const [todos, setTodos] = useState([
-    { id: 1, text: "hahahhahaha", completed: false },
+    { id: 1, text: "Update the README in github", completed: false },
     { id: 2, text: "Never do the these tasks", completed: false },
     { id: 3, text: "ajhhahsdzvn sbhfhujdfbj fvdh ", completed: true },
     { id: 4, text: "Do all the tasks DO IT!!!", completed:false}
